@@ -5,12 +5,20 @@
     <link>https://timjbaer.github.io/</link>
       <atom:link href="https://timjbaer.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Tim Baer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Dec 2020 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Jul 2021 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://timjbaer.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tim Baer</title>
       <link>https://timjbaer.github.io/</link>
     </image>
+    
+    <item>
+      <title>Graph Algorithms with Sparse Linear Algebra</title>
+      <link>https://timjbaer.github.io/talk/c3/</link>
+      <pubDate>Mon, 19 Jul 2021 13:00:00 +0000</pubDate>
+      <guid>https://timjbaer.github.io/talk/c3/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multilinear Operations on Sparse Tensors &amp; Graphs</title>
