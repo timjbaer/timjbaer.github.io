@@ -5,7 +5,7 @@
     <link>https://timjbaer.github.io/talk/</link>
       <atom:link href="https://timjbaer.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Jul 2021 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 12 Aug 2021 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://timjbaer.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Transpiler &amp; Distributed Deep Learning Frameworks</title>
+      <link>https://timjbaer.github.io/talk/c3work/</link>
+      <pubDate>Thu, 12 Aug 2021 13:00:00 +0000</pubDate>
+      <guid>https://timjbaer.github.io/talk/c3work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Graph Algorithms with Sparse Linear Algebra</title>
-      <link>https://timjbaer.github.io/talk/c3/</link>
+      <link>https://timjbaer.github.io/talk/c3research/</link>
       <pubDate>Mon, 19 Jul 2021 13:00:00 +0000</pubDate>
-      <guid>https://timjbaer.github.io/talk/c3/</guid>
+      <guid>https://timjbaer.github.io/talk/c3research/</guid>
       <description></description>
     </item>
     
@@ -30,9 +38,33 @@
     
     <item>
       <title>Low Hop Emulators and Uncapacitated Min-Cost Flow</title>
-      <link>https://timjbaer.github.io/talk/andoni/</link>
+      <link>https://timjbaer.github.io/talk/pposs_andoni/</link>
       <pubDate>Thu, 15 Oct 2020 13:00:00 +0000</pubDate>
-      <guid>https://timjbaer.github.io/talk/andoni/</guid>
+      <guid>https://timjbaer.github.io/talk/pposs_andoni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Hop Emulators and Uncapacitated Min-Cost Flow</title>
+      <link>https://timjbaer.github.io/talk/reading_andoni/</link>
+      <pubDate>Thu, 01 Oct 2020 13:00:00 +0000</pubDate>
+      <guid>https://timjbaer.github.io/talk/reading_andoni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shopical: Shop Ethical</title>
+      <link>https://timjbaer.github.io/talk/shopical/</link>
+      <pubDate>Tue, 28 Jul 2020 13:00:00 +0000</pubDate>
+      <guid>https://timjbaer.github.io/talk/shopical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution in the Stock Market</title>
+      <link>https://timjbaer.github.io/talk/stock/</link>
+      <pubDate>Sat, 06 Apr 2019 13:00:00 +0000</pubDate>
+      <guid>https://timjbaer.github.io/talk/stock/</guid>
       <description></description>
     </item>
     
