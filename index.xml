@@ -5,12 +5,20 @@
     <link>https://timjbaer.github.io/</link>
       <atom:link href="https://timjbaer.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Tim Baer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 12 Aug 2021 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 10 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://timjbaer.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tim Baer</title>
       <link>https://timjbaer.github.io/</link>
     </image>
+    
+    <item>
+      <title>Parallel Minimum Spanning Forest Computation using Sparse Matrix Kernels</title>
+      <link>https://timjbaer.github.io/publication/msf/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://timjbaer.github.io/publication/msf/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Python Code Generation &amp; Distributed Deep Learning Frameworks</title>
