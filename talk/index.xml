@@ -14,49 +14,49 @@
     
     <item>
       <title>Parallel Minimum Spanning Forest Computation using Sparse Matrix Kernels</title>
-      <link>https://timjbaer.github.io/talk/msf/</link>
+      <link>https://timjbaer.github.io/talk/msf_pp22/</link>
       <pubDate>Fri, 25 Feb 2022 13:00:00 +0000</pubDate>
-      <guid>https://timjbaer.github.io/talk/msf/</guid>
+      <guid>https://timjbaer.github.io/talk/msf_pp22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python Code Generation &amp; Distributed Deep Learning Frameworks</title>
-      <link>https://timjbaer.github.io/talk/c3work/</link>
+      <link>https://timjbaer.github.io/talk/work_c3/</link>
       <pubDate>Thu, 12 Aug 2021 13:00:00 +0000</pubDate>
-      <guid>https://timjbaer.github.io/talk/c3work/</guid>
+      <guid>https://timjbaer.github.io/talk/work_c3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graph Algorithms with Sparse Linear Algebra</title>
-      <link>https://timjbaer.github.io/talk/c3research/</link>
+      <link>https://timjbaer.github.io/talk/graph_algs_c3/</link>
       <pubDate>Mon, 19 Jul 2021 13:00:00 +0000</pubDate>
-      <guid>https://timjbaer.github.io/talk/c3research/</guid>
+      <guid>https://timjbaer.github.io/talk/graph_algs_c3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multilinear Operations on Sparse Tensors &amp; Graphs</title>
-      <link>https://timjbaer.github.io/talk/cs598evs/</link>
+      <link>https://timjbaer.github.io/talk/mult_op_cs598/</link>
       <pubDate>Mon, 07 Dec 2020 13:00:00 +0000</pubDate>
-      <guid>https://timjbaer.github.io/talk/cs598evs/</guid>
+      <guid>https://timjbaer.github.io/talk/mult_op_cs598/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Low Hop Emulators and Uncapacitated Min-Cost Flow</title>
-      <link>https://timjbaer.github.io/talk/reading_andoni/</link>
+      <link>https://timjbaer.github.io/talk/low_hop_em_reading/</link>
       <pubDate>Thu, 01 Oct 2020 13:00:00 +0000</pubDate>
-      <guid>https://timjbaer.github.io/talk/reading_andoni/</guid>
+      <guid>https://timjbaer.github.io/talk/low_hop_em_reading/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shopical: Shop Ethical</title>
-      <link>https://timjbaer.github.io/talk/shopical/</link>
+      <link>https://timjbaer.github.io/talk/shopical_ibm/</link>
       <pubDate>Tue, 28 Jul 2020 13:00:00 +0000</pubDate>
-      <guid>https://timjbaer.github.io/talk/shopical/</guid>
+      <guid>https://timjbaer.github.io/talk/shopical_ibm/</guid>
       <description></description>
     </item>
     
