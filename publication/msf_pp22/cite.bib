@@ -1,0 +1,11 @@
+@inbook{doi:10.1137/1.9781611977141.7,
+author = {Tim Baer and Raghavendra Kanakagiri and Edgar Solomonik},
+title = {Parallel Minimum Spanning Forest Computation using Sparse Matrix Kernels},
+booktitle = {Proceedings of the 2022 SIAM Conference on Parallel Processing for Scientific Computing (PP)},
+chapter = {},
+pages = {72-83},
+doi = {10.1137/1.9781611977141.7},
+URL = {https://epubs.siam.org/doi/abs/10.1137/1.9781611977141.7},
+eprint = {https://epubs.siam.org/doi/pdf/10.1137/1.9781611977141.7},
+    abstract = { Abstract Formulations of graph algorithms using sparse linear algebra have yielded highly scalable distributed algorithms for problems such as connectivity and shortest path computation. We develop the first formulation of the Awerbuch-Shiloach parallel minimum spanning forest (MSF) algorithm using linear algebra primitives. We introduce a multilinear kernel that operates on an adjacency matrix and two vectors. This kernel updates graph vertices by simultaneously using information from both adjacent edges and vertices. In addition, we explore optimizations to accelerate the shortcutting step in the Awerbuch-Shiloach algorithm. We implement this MSF algorithm with Cyclops, a distributed-memory library for generalized sparse tensor algebra. We analyze the parallel scalability of our implementation on the Stampede2 supercomputer. }
+}
